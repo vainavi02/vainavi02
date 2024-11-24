@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vainavi02
 - 👀 I’m interested in problem solving 
-- 🌱 I’m currently learning java and python
-- 💞️ I’m looking to collaborate on projects related to python and java 
+- 🌱 I’m currently learning c and python
+- 💞️ I’m looking to collaborate on projects related to python and c
 - 📫 can contact me through mail vainavi.balachenna@gmail.com
 - 😄 Pronouns: she/her
 
